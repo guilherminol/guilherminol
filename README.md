@@ -1,4 +1,4 @@
-## Bem Vindo ao meu perfil, meu nome é Guilhermino e sou desenvolvedor front-end 
+## Bem Vindo, meu nome é Guilhermino e sou desenvolvedor front-end 😉
 
 <div align="center">
   <a href="https://github.com/guilherminol">
