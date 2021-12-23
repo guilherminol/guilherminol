@@ -1,7 +1,5 @@
 ## Bem Vindo, meu nome é Guilhermino e sou desenvolvedor front-end 😉
-
-
-
+<br>
  <div align='center' style="display: inline_block">
   <img align="center" alt="Guilher-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilher-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,25 +24,51 @@
 </div>
   
   ## Principais Projetos: 
-  
-<div>
-  
-  <a href="https://github.com/Matheusd3v/capstone-q2-educ-financeira-g4">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusd3v&repo=capstone-q2-educ-financeira-g4&theme=chartreuse-dark" />
-  </a>
-  
-  <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-guilherminol">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s2-kenzie-hub-guilherminol&theme=chartreuse-dark" />
-  </a>
   <br>
-   <a href="https://github.com/Matheusd3v/gestao-de-habitos-g4" >
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusd3v&repo=gestao-de-habitos-g4&theme=chartreuse-dark" />
- </a>
-  
+<div style="display: flex">
+ 
+  <a href="https://github.com/Matheusd3v/capstone-q2-educ-financeira-g4">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusd3v&repo=capstone-q2-educ-financeira-g4&theme=vision-friendly-dark" />
+  </a>
+ 
+<br>
+ <p align = "center"> Nesse trabalho exerci a função de ScrumMaster e fui responsável por diversas tarefas como a criação da home page e da página de conteúdo </p>
+<br>
+ 
 </div>
+ 
+ 
+ ##
+ 
+ <br>
+ 
+ <div style="display: flex" >
+  <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-guilherminol">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s2-kenzie-hub-guilherminol&theme=vision-friendly-dark" />
+  </a>
+<br>
+   <p  align = "center"> Nesse trabalho temos um protótipo de uma rede social em que o usuário consegue ver e cadastrar novas habilidades </p>
+<br>
   
-  
-<div>
+ </div>
+ 
+ <br>
 
+ ##
+ 
+ <br>
+ 
+ 
+  <div style="display: flex">
+   
+   <a href="https://github.com/Matheusd3v/gestao-de-habitos-g4" >
+   <img align = "left"src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusd3v&repo=gestao-de-habitos-g4&theme=vision-friendly-dark" />
+ </a>
+   
+   <br>
+ <p align = "center"> Nesse trabalho exerci a função de ProductOwner e fui responsável por diversas tarefas como a criação da home page e da página de conteúdo </p>
+   <br>
+   
+  
 </div>
-    
+
