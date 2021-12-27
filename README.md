@@ -66,7 +66,7 @@
  </a>
    
    <br>
- <p align = "center"> Nesse trabalho exerci a função de ProductOwner e fui responsável por diversas tarefas como a criação da home page e da página de conteúdo </p>
+ <p align = "center"> Nesse trabalho exerci a função de ProductOwner e fui responsável por diversas tarefas como a criação da página de login features de editar, adicionar e editar hábitos e etc ...</p>
    <br>
    
   
